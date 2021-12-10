@@ -98,5 +98,5 @@ Python3, Windows(x64)
 Feel free to contact me if you have any problems.
 https://discord.gg/V589WeDmUr. ```moom825#0001```
 
-## **add something**:
+## **Add something**:
 If you want me to add an option to combine it with another existing better discord plugin, create an issue asking for it

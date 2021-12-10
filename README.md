@@ -1,13 +1,13 @@
 # better-pwn
 
-Tools for hacking better discord(BD). One a token grabber builder, one a malawre dropper builder. both in betterdiscord plugin form, both output payloads obfuscated.<br>
+Tools for hacking Better Discord(BD). One a token grabber builder, one a malawre dropper builder. both in betterdiscord plugin form, both outputed payloads obfuscated.<br>
 
 ## **Disclaimer:**
 
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.<br>
 
 ## **How to use:**
-There are 2 files here, one generates a better discord plugin that is a token grabber, the other generates a better discord plugin that is a malware dropper.<br>
+There are 2 files here, one generates a Better Discord plugin that is a token grabber, the other generates a Better Discord plugin that is a malware dropper.<br>
 
 judging by the file names it should be pretty easy to identify which ones which.<br>
 

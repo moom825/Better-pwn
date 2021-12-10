@@ -48,8 +48,8 @@ complete, saved to "message logger.plugin.js"
 <br>
 <br>
 
-when running the malware dropper builder a prompt will come up asking for the plugin's display name, the plugin version, the plugins description, the plugin author, a direct download link to the file you want dropped (One way to make a direct download link can be found on this website: https://sites.google.com/site/gdocs2direct/), and then it will ask what the dropped filename name should be.
-Lastly it will ask for a output filename, thats what the filename will be called.
+when running the malware dropper builder a prompt will come up asking for the plugin's display name, the plugin version, the plugins description, the plugin author, a direct download link to the file you want dropped (One way to make a direct download link can be found on this website: https://sites.google.com/site/gdocs2direct/), and then it will ask what the dropped filename name should be.<br>
+Lastly it will ask for a output filename, thats what the filename will be called.<br>
 it will save the plugin in the current directory.<br>
 <br>
 <br>

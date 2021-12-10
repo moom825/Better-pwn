@@ -90,7 +90,7 @@ For the outputed files of each tool the payload itself will be obfuscated.
 
 ## **Install requirements** :
 ```
-pip3 install -r requirements.txt
+pip3 install requests or pip install requests
 ```
 Then if the steps above were successful, you can launch the python file by executing ```python filename.py```.
 

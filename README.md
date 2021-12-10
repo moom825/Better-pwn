@@ -88,7 +88,7 @@ complete, saved to message logger.plugin.js
 
 For the outputed files of each tool the payload itself will be obfuscated.
 
-Install requirements :
+## **Install requirements** :
 ```
 pip3 install -r requirements.txt
 ```

@@ -57,5 +57,5 @@ filename=input("enter output filename: ")
 with open(filename+".plugin.js","w") as f:
     f.write(code)
     f.close()
-print(f"complete, saved to {filename}.plugin.js")
+print(f"complete, saved to \"{filename}.plugin.js\"")
 input()

@@ -80,7 +80,7 @@ enter output filename:
 
 >>>message logger
 
-complete, saved to message logger.plugin.js
+complete, saved to "message logger.plugin.js"
 ```
 <br>
 For the outputed files of each tool the payload itself will be obfuscated.
